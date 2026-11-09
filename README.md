@@ -135,10 +135,7 @@ The main goals of this project are to:
 - Strengthen my understanding of authentication, validation and CRUD operations.
 - Build and maintain full-stack applications for my GitHub portfolio.
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
-Developed by **Shaurya Parmar**
+Made by **Shaurya Parmar**
 
-[GitHub Profile](https://github.com/ShauryaParmar2102)
-
-This project was built for learning, experimentation and continued development.
